@@ -23,8 +23,8 @@ The number of reachable attractions from the same starting point using Breadth-F
 
 ## Program:
 ```
-Developed by: SANJAY M
-Register Number: 212223230187
+Developed by: KISHORE G
+Register Number: 212223040099
 ```
 
 ```
