@@ -16,8 +16,8 @@ To design and implement a java program that constructs a binary tree from given 
 
 ## Program:
 ```
-Developed by: SANJAY M
-Register Number: 212223230187
+Developed by: KISHORE G
+Register Number: 212223040099
 ```
 
 ```
