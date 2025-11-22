@@ -23,8 +23,8 @@ To design and implement java program that constructs a Binary Search Tree (BST) 
 
 ## Program:
 ```
-Developed by: SANJAY M
-Register Number: 212223230187
+Developed by: KISHORE G
+Register Number: 212223040099
 ```
 
 ```
